@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* header */
+header{
+    border-bottom: 0.5px solid black;
+    display: flex;
+    padding-left: 260px;
+    box-shadow: 5px 1px 5px rgb(139, 122, 122);
+}
+header > a{
+    padding: 17px 30px;
+}
+header > button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(0, 41, 112);
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.img-paytm{
+    width: 50px;
+    height: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+/*          main section                 */
+
+.sec2-img{
+    position: relative;
+    left: 600px;
+    top: 10px;
+}
+
+.sec1-button{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.h1-sec{
+    position: relative;
+    top: 150px;
+    left: 120px;
+}
+p{
+    position: relative;
+    top: 150px;
+    left: 120px; 
+}
+.sec1-i{
+    position: relative;
+    top: 150px;
+    left: 120px; 
+}
+
+.sec1-button{
+    position: relative;
+    top: -150px;
+    left: 120px; 
+}
+
+main{
+    font-size: 20px;
+}
+
+h1{
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    font-weight: 500;
+}
+
+p{
+    word-spacing: 5px;
+}
+
